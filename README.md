@@ -32,16 +32,17 @@ TatakaeRunner
 Зразок 1:
 
 > Модель ворожого дрона
-![](https://i.ibb.co/ftbMmJb/Enemy-rotate.gif)
+> 
+![](https://i.ibb.co/T4CSKxQ/enemyrotate.gif)
 
 > Динамічні елементи моделі
+> 
 ![](https://i.ibb.co/Kjnb0Vc/Enemy-light.gif)
 
 Зразок 2:
 
 > Елемент дизайну рівнів: бочка
 ![](https://i.ibb.co/V3MLdKB/image.png)
-> 
 ![](https://i.ibb.co/B6ZxTkk/image.png)
 
 Зразок 3:
