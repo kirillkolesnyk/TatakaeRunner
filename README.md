@@ -8,9 +8,9 @@ TatakaeRunner
 ### Завдання
 Створення динамічної гри сайд-скролера в науково-фантастичному сеттингу на базі трьохвимірної графіки за допомогою обєктно-орієнтованих заобів мови C++ та движка Unreal Engine 4. Створення стабільної версії гри з механікою ходіння, атак,  рпг-системи у вигляді бонусів, опрацювання ворогів та механізма їх поведінки.
 
-Беклог гри: [Google таблиця](https://docs.google.com/spreadsheets/d/1HxsMV6HRRQSz0PiH38nqcb-S90R0hmTj24mcgAqIyKI/edit?usp=sharing "Беклог гри")
+Беклог гри: [Google таблиця](https://docs.google.com/spreadsheets/d/152F55wNs42_IqcW3bryD-lg3eZljbC1y7-hJDfxJo3A/edit?usp=sharing "Беклог гри")
 
-Беклог першого спринта: [Google таблиця](https://docs.google.com/spreadsheets/d/1HxsMV6HRRQSz0PiH38nqcb-S90R0hmTj24mcgAqIyKI/edit#gid=0 "Беклог першого спринта")
+Беклог першого спринта: [Google таблиця](https://docs.google.com/spreadsheets/d/1HxsMV6HRRQSz0PiH38nqcb-S90R0hmTj24mcgAqIyKI/edit?usp=sharing "Беклог першого спринта")
 
 ### Концепція проекту
 Проект являє собою гру у форматі [сайд-скролер](https://uk.wikipedia.org/wiki/Сайд-скролер) в [науково-фантастичному](https://uk.wikipedia.org/wiki/Наукова_фантастика) сеттингу. 
